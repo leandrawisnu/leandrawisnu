@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rectangle27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rectangle27" height="30" width="40" /></a>
-<a href="https://instagram.com/statelystatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="statelystatik" height="30" width="40" /></a>
+<a href="https://instagram.com/statelystatic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="statelystatic" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
