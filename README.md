@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leandrawisnu&label=Profile%20views&color=0e75b6&style=flat" alt="leandrawisnu" /> </p>
 
-- 🌱 I’m currently learning **C# & Kotlin**
-
 - 💬 Ask me about **F1 and Tech**
 
 - 📫 How to reach me **andrawisnu60@gmail.com**
