@@ -11,7 +11,7 @@
 
 ### 👤 About Me
 
-Grade 11 Software Engineering student with a strong passion for software development and artificial intelligence. Proficient in **C#**, **PHP (Laravel)**, **JavaScript**, **Next.js**, and **Kotlin**, with hands-on expertise in AI engineering. Currently interning at [Sarana.ai](http://Sarana.ai), where I apply my skills in real-world projects.
+Grade 12 Software Engineering student with a strong passion for software development and artificial intelligence. Proficient in **C#**, **JavaScript**, **Next.js**, and **Kotlin**, with hands-on expertise in AI engineering. Currently at [Sarana.ai](http://Sarana.ai)
 
 A fast learner who adapts quickly, communicates well in English, and thrives in — and leads — collaborative team environments.
 
